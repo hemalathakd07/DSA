@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Arrays{
+public class InsertionAtBeginning{
   static void insertionAtBeginning(int[] arr,int size,int element){
     for(int i=size;i>0;i--){
       arr[i]=arr[i-1];
