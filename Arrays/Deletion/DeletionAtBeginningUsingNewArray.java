@@ -1,3 +1,4 @@
+package Deletion;
 public class DeletionAtBeginningUsingNewArray {
   void deletion(int[] array,int[] newArray){
     for(int i=0;i<newArray.length;i++){
