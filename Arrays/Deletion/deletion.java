@@ -1,3 +1,4 @@
+package Deletion;
 import java.util.Scanner;
 public class deletion {
 
