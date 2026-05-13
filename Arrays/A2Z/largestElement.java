@@ -1,6 +1,3 @@
-import java.util.Arrays;
-
-
 public class largestElement {
   static int largest(int[] array){
     int largest_element=array[0];
