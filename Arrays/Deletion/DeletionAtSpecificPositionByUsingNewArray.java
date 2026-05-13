@@ -1,3 +1,4 @@
+package Deletion;
 public class DeletionAtSpecificPositionByUsingNewArray {
     
   void deletion(int[] array,int[] newArray,int position){

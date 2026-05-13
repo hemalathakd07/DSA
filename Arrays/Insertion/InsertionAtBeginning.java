@@ -1,3 +1,4 @@
+package Insertion;
   import java.util.Scanner;
 
   public class InsertionAtBeginning{

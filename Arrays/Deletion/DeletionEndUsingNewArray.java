@@ -1,3 +1,4 @@
+package Deletion;
 public class DeletionEndUsingNewArray {
 
   void deletion(int[] array,int[] newArray){

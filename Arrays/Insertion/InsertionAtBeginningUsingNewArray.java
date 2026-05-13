@@ -1,3 +1,4 @@
+package Insertion;
 public class InsertionAtBeginningUsingNewArray {
   void insertion(int[] array,int[] newArray,int element){
     newArray[0]=element;
